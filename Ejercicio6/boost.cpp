@@ -1,8 +1,9 @@
 #include "boost.h"
 #include <iostream>
-#include <boost/lexical_cast.hpp>
+#include "../boost_1_87_0/boost/lexical_cast.hpp"
+#include "../boost_1_87_0/boost/lexical_cast/bad_lexical_cast.hpp"
 
-void boost() {
+void boost_lexical_cast() {
     std::string s = "12345";
 
     try {

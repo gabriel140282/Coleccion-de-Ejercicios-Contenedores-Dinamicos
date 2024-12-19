@@ -1,6 +1,6 @@
 #ifndef BOOST_H
 #define BOOST_H
 
-void boost();
+void boost_lexical_cast();
 
 #endif //BOOST_H
