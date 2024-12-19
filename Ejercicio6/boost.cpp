@@ -1,6 +1,6 @@
 #include "boost.h"
 #include <iostream>
-#include <boost/lexical_cast.hpp>
+#include <boost/lexical_cast.hpp> //Librería a instalar en linux
 
 void boost_lexical_cast() {
     std::string s = "12345";
