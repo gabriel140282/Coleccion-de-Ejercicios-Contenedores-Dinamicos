@@ -3,6 +3,7 @@
 #include "Ejercicio3/algoritmos.h"
 #include "Ejercicio4/calculo_numerico.h"
 #include "Ejercicio5/moderno.h"
+#include "Ejercicio6/boost.h"
 
 int main() {
     vector_iteradores();
