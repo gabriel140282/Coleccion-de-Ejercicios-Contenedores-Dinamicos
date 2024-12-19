@@ -1,13 +1,6 @@
-
 #ifndef ALGORITMOS_H
 #define ALGORITMOS_H
 
-
-
-class algoritmos {
-
-};
-
-
+void algoritmos();
 
 #endif //ALGORITMOS_H
