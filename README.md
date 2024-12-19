@@ -1,3 +1,14 @@
+# Instrucciones del programa:
+-Este programa funciona únicamente en el sistema operativo Linux. Asegúrate de no ejecutarlo en una máquina Windows.
+
+-Es necesario que instales la librería del boost en tu máquina. Para ello utiliza el comando "sudo apt install libboost-all-dev".
+
+-A la hora de compilar el programa, deberás incluir todos los cpp para que la compilación no dé error. Para ello, utiliza el siguiente comando: g++ -o programa main.cpp ./Ejercicio6/boost.cpp ./Ejercicio1/vector_iteradores.cpp ./Ejercicio2/cont_estandar_secuencias.cpp ./Ejercicio3/algoritmos.cpp ./Ejercicio4/calculo_numerico.cpp ./Ejercicio5/moderno.cpp
+
+-El programa se ejecuta colocando "./programa" en la terminal de bash.
+
+# Ejercicio:
+
 https://github.com/gabriel140282/Coleccion-de-Ejercicios-Contenedores-Dinamicos.git
 
 Enunciado
