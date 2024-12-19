@@ -1,5 +1,4 @@
 # Instrucciones del programa:
-
 -Este programa funciona únicamente en el sistema operativo Linux. Asegúrate de no ejecutarlo en una máquina Windows.
 
 -Es necesario que instales la librería del boost en tu máquina. Para ello utiliza el comando "sudo apt install libboost-all-dev".
