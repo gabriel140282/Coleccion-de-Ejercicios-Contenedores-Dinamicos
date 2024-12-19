@@ -1,3 +1,5 @@
+##Instrucciones del programa:
+
 https://github.com/gabriel140282/Coleccion-de-Ejercicios-Contenedores-Dinamicos.git
 
 Enunciado
